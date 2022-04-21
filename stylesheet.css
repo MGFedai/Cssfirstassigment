@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.listdotposition{
+    list-style-position:inside;
+}
+.anasayfacolor{
+    color: rgb(184, 62, 18);
+}
+.titlecolor{
+    color: rgb(255, 123, 0);
+}
+.imgs{
+    width: 250px;
+    height: 250px;
+}
